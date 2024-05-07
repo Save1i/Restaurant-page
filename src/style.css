@@ -1,0 +1,23 @@
+.headerInner {
+  display: flex;
+  width: 100%;
+}
+
+.header {
+  max-width: 1200px;
+}
+
+.headerInner {
+  width: 100%;
+}
+
+img {
+  /* background-image: url(homeImg.png); */
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  background-color: rgb(216, 255, 202);
+}
